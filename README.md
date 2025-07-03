@@ -35,12 +35,12 @@ I am a passionate Junior QA Tester with experience in manual testing. Here you c
 
 
 ### Test Artifacts
-- Web application testing
-- Mobile application testing
-- REST and SOAP API testing via Postman
-- Charles Proxy
+- Web App testing
+- REST and SOAP API testing 
+- MySQL
+- Mobile App testing
 - Bash
-- SQL
+- Git
 
 
 ### Feel free to contact me
