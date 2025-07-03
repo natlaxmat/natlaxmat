@@ -43,8 +43,6 @@ I am a passionate Junior QA Tester with experience in manual testing. Here you c
 - SQL
 
 
----
-
 ### Feel free to contact me
 
 <div id="badges">
