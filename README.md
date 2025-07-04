@@ -35,11 +35,10 @@ I am a passionate Junior QA Tester with experience in manual testing. Here you c
 
 ### Test Artifacts
 - [Web App testing](https://github.com/natlaxmat/web)
-- REST and SOAP API testing 
+- [API testing](https://github.com/natlaxmat/api.git) 
 - MySQL
 - Mobile App testing
-- [Bash](https://github.com/natlaxmat/git_bash.git)
-- [Git](https://github.com/natlaxmat/git_bash.git)
+- [Git Bash](https://github.com/natlaxmat/git_bash.git)
 
 
 ### Feel free to contact me
