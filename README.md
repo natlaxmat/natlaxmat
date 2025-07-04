@@ -38,8 +38,7 @@ I am a passionate Junior QA Tester with experience in manual testing. Here you c
 - REST and SOAP API testing 
 - MySQL
 - Mobile App testing
-- Bash
-- Git
+- Git Bash
 
 
 ### Feel free to contact me
