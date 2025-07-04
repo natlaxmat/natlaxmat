@@ -7,9 +7,8 @@ I am a passionate Junior QA Tester with experience in manual testing. Here you c
 
 - ✔️ I have completed a **Functional Software Testing Course**
 - 🎯 My next goal is to dive into test automation with Python
-- ✏️ I have been working in children's educational projects as an illustrator for the last 10 years
 - 📋 Check out my [resume](https://drive.google.com/file/d/1ydAFIwLIiUenxdVH3XiWA1dteMIG_1nH/view?usp=sharing)
-- 🎶 Random facts: I play the ukulele in my free time  
+- ✏️ Random facts: I have been working in children's educational projects as an illustrator for the last 10 years  
 
 
 
