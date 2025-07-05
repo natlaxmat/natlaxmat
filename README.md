@@ -36,7 +36,7 @@ I am a passionate Junior QA Tester with experience in manual testing. Here you c
 ### Test Artifacts
 - [Web App testing](https://github.com/natlaxmat/web)
 - [API testing](https://github.com/natlaxmat/api.git) 
-- MySQL
+- [MySQL](https://github.com/natlaxmat/database.git)
 - [Mobile App testing](https://github.com/natlaxmat/mobile.git)
 - [Git Bash](https://github.com/natlaxmat/git_bash.git)
 
