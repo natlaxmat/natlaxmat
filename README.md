@@ -7,7 +7,7 @@ I am a passionate Junior QA Tester with experience in manual testing. Here you c
 
 - ✔️ I have completed a [Functional Software Testing Course](https://rusau.net/qa-from-scratch)
 - 🎯 My next goal is to dive into test automation
-- 📋 Check out my [resume](https://drive.google.com/file/d/1ydAFIwLIiUenxdVH3XiWA1dteMIG_1nH/view?usp=sharing)
+- 📋 Check out my [resume](https://drive.google.com/file/d/1HE4A3jpk5OBWLEB9DZOGiPd-A4lqdpHZ/view?usp=sharing)
 - 🎶 Random facts: I play the ukulele in my free time  
 
 
