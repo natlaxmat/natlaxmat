@@ -37,7 +37,7 @@ I am a passionate Junior QA Tester with experience in manual testing. Here you c
 - [Web App testing](https://github.com/natlaxmat/web)
 - [API testing](https://github.com/natlaxmat/api.git) 
 - MySQL
-- Mobile App testing
+- [Mobile App testing](https://github.com/natlaxmat/mobile.git)
 - [Git Bash](https://github.com/natlaxmat/git_bash.git)
 
 
