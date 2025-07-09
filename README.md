@@ -35,6 +35,7 @@ I am a passionate Junior QA with experience in manual testing. Here you can expl
 
 
 ### Test Artifacts
+- [Test design techniques](https://github.com/natlaxmat/design.git)
 - [Web App testing](https://github.com/natlaxmat/web)
 - [API testing](https://github.com/natlaxmat/api.git) 
 - [MySQL](https://github.com/natlaxmat/database.git)
