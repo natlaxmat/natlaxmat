@@ -5,7 +5,7 @@ I am a passionate Junior QA with experience in manual testing. Here you can expl
 
 ### A Few Facts About Me
 
-- 🎓 I have completed a [Functional Software Testing Course](https://rusau.net/qa-from-scratch)
+- ✅ I have completed a [Functional Software Testing Course](https://rusau.net/qa-from-scratch)
 - 🎯 My next goal is to dive into test automation
 - 📋 Check out my [CV](https://docs.google.com/document/d/19X-sC4v06jdf3yppcgQMVzt3XHKWpO7476pAXYN_ilc/edit?usp=sharing) 
 - 🎶 Random facts: I play the ukulele in my free time  
@@ -46,6 +46,9 @@ I am a passionate Junior QA with experience in manual testing. Here you can expl
 ### Feel free to contact me
 
 <div id="badges">
+  <a href="https://www.linkedin.com/in/natdvoretskaya">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="gmail" />
+    </a>
     <a href="https://t.me/natlaxmat" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="linkedin" />
     </a>
