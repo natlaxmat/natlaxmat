@@ -1,6 +1,6 @@
 # Hi there, I'm Nat 👋
 
-I am a passionate Softwear QA Engineer with experience in manual testing. Here you can explore some of the test artifacts I've created during my learning journey, including test plans, test cases, and bug reports for various types of projects. I’m especially interested in backend testing: APIs, databases, and working with the CLI. Here I share web and mobile testing portfolio items developed through courses and personal projects.
+I am a Softwear QA Engineer with experience in manual testing. Here you can explore some of the test artifacts I've created during my learning journey, including test plans, test cases, and bug reports for various types of projects. I’m especially interested in backend testing: APIs, databases, and working with the CLI. Here I share web and mobile testing portfolio items developed through courses and personal projects.
 
 
 ### A Few Facts About Me
