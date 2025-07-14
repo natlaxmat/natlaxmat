@@ -46,13 +46,13 @@ I am a passionate Junior QA with experience in manual testing. Here you can expl
 ### Feel free to contact me
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/natdvoretskaya">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="gmail" />
+          <a href="mailto:nat.dvoretskaya@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="gmail" />
     </a>
-    <a href="https://t.me/natlaxmat" target="_blank">
+  <a href="https://t.me/natlaxmat" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="mailto:nat.dvoretskaya@gmail.com">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="gmail" />
+  <a href="https://www.linkedin.com/in/natdvoretskaya">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="gmail" />
     </a>
 </div> 
