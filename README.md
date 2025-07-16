@@ -5,7 +5,7 @@ I am a Software QA Engineer with experience in manual testing. Here you can expl
 
 ### A Few Facts About Me
 
-- ✅ I have completed a [Functional Software Testing Course](https://rusau.net/qa-from-scratch)
+- ✅ I have completed a [Functional Software Testing Course](https://drive.google.com/file/d/1VDMIHD95Iba-BgxKsG8RGfnMHpb91zA9/view?usp=sharing)
 - 🎯 My next goal is to dive into test automation
 - 📋 Check out my [CV](https://drive.google.com/file/d/1ufM_UVKYvODjTWwurtnwd-S7eiZ4VTwq/view?usp=sharing) 
 - 🎶 Random facts: I play the ukulele in my free time  
