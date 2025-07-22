@@ -1,4 +1,4 @@
-# Hi there, I'm Natalia 👋
+# Hi there, I'm Nat 👋
 
 I am a Software QA Engineer with experience in manual testing. Here you can explore some of the test artifacts I've created during my learning journey, including test plans, test cases, and bug reports for various types of projects. I’m especially interested in backend testing: APIs, databases, and working with the CLI.
 
