@@ -7,7 +7,7 @@ I am a Software QA Engineer with experience in manual testing. Here you can expl
 
 - ✅ I have completed a [Functional Software Testing Course](https://drive.google.com/file/d/1VDMIHD95Iba-BgxKsG8RGfnMHpb91zA9/view?usp=sharing)
 - 🎯 My next goal is to dive into test automation
-- 📋 Check out my [CV (rus)](https://drive.google.com/file/d/1g9dfz-m1MG0utZdoiq3FPqWTmCBcd7s_/view?usp=sharing) / [CV (eng)](https://drive.google.com/file/d/1AzmsAO2xT0zPhDTJp9DC-37vM4uc1wF8/view?usp=sharing) 
+- 📋 Check out my [CV (rus)](https://drive.google.com/file/d/1TMIn_YgSZZEQicINJOvZLmFiDIDLsnGg/view?usp=sharing) / [CV (eng)](https://drive.google.com/file/d/1AzmsAO2xT0zPhDTJp9DC-37vM4uc1wF8/view?usp=sharing) 
 - 🎶 Random facts: I play the ukulele in my free time  
 
 
