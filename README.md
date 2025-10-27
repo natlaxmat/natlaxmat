@@ -41,6 +41,7 @@ I am a Software QA Engineer with experience in manual testing. Here you can expl
 - [MySQL](https://github.com/natlaxmat/database.git)
 - [Mobile App testing](https://github.com/natlaxmat/mobile.git)
 - [Git Bash](https://github.com/natlaxmat/git_bash.git)
+- [Test tasks](https://github.com/natlaxmat/test-tasks.git)
 
 
 ### Feel free to contact me
