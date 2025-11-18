@@ -13,7 +13,7 @@ I am a Software QA Engineer with experience in manual testing. Here you can expl
 
 
 ### Some of the Tools I’ve Worked With
-
+<br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/353597/confluence.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
