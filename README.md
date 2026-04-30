@@ -1,6 +1,6 @@
 # Hi there, I'm Nat 👋
 
-I am a Software QA Engineer with experience in manual testing. Here you can explore some of the test artifacts I've created during my learning journey, including test plans, test cases, and bug reports for various types of projects. I’m especially interested in backend testing: APIs, databases, and working with the CLI.
+I am a Software QA Engineer with experience testing web and mobile applications, APIs, and databases. I specialize in functional, UI/UX, and backend testing. Here you can explore some of the test artifacts I've created during my learning journey, including test plans, test cases, and bug reports for various types of projects. I’m especially interested in backend testing: APIs, databases, and working with the CLI.
 
 
 ### A Few Facts About Me
