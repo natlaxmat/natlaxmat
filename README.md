@@ -52,7 +52,7 @@ I am a Software QA Engineer with experience in manual testing. Here you can expl
   <a href="mailto:nat.dvoretskaya@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="gmail"/>
   </a> 
-  <a href="https://t.me/natlaxmat" target="_blank">
+  <a href="https://t.me/dvnat" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" alt="telegram"/>
   </a> 
   <a href="https://www.linkedin.com/in/natdvoretskaya">
