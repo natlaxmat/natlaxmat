@@ -6,8 +6,8 @@ I am a Software QA Engineer with experience testing web and mobile applications,
 ### A Few Facts About Me
 
 - ✅ I have completed a [Functional Software Testing Course](https://drive.google.com/file/d/1VDMIHD95Iba-BgxKsG8RGfnMHpb91zA9/view?usp=sharing)
-- 🎯 My next goal is to dive into test automation
-- 📋 Check out my [CV (rus)](https://drive.google.com/file/d/1KbVF_u5Vnol21bTh6XGTcKGCosy4spxh/view?usp=sharing) / [CV (eng)](https://drive.google.com/file/d/1QaakZBTAQ0_jCmKa4tuKJP9qvYQ_tKcd/view?usp=sharing) 
+- 📖 I am studying AQA at School 21 (Java)
+- 📋 Check out my [CV (rus)](https://drive.google.com/file/d/1KbVF_u5Vnol21bTh6XGTcKGCosy4spxh/view?usp=sharing) / [CV (eng)](https://drive.google.com/file/d/1QaakZBTAQ0_jCmKa4tuKJP9qvYQ_tKcd/view?usp=sharing)
 - 🎶 Random facts: I play the ukulele in my free time  
 
 
