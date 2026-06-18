@@ -33,6 +33,8 @@ I am a Software QA Engineer with experience testing web and mobile applications,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" title="bash" alt="bash" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="intellij_idea" alt="intellij_idea" width="40"/>
+  
 </p>
 
 
